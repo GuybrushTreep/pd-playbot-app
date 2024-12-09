@@ -1,0 +1,10 @@
+name=PlayBot
+author=GuillaumeLoquin
+description=This is template project
+bundleID=com.GL.PlayBot
+version=0.0.1
+buildNumber=1
+imagePath=Assets/launcher/
+launchSoundPath=Assets/launcher/sound.wav
+pdxversion=20400
+buildtime=786703137
